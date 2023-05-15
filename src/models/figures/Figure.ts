@@ -39,6 +39,6 @@ export class Figure {
     }
 
     moveFigure(target: Cell) {
-        const t = target
+        console.log(target)
     }
 }
